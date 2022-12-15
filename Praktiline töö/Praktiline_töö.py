@@ -80,4 +80,6 @@ elif kuu == 'oktoober':
 	märk = 'Scorpio' if (päev < 23) else 'Scorpio'
 elif kuu == 'november':
 	märk = 'Ambur' if (päev < 22) else 'Ambur'
-print("teie märk:",märk)
+print("teie märk:",märk) 
+
+#kõik
